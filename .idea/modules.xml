@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-week-assignments/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/01-week-assignments/arraysDemo/arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-week-assignments/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/01-week-assignments/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-week-assignments/datatypes/datatypes.iml" filepath="$PROJECT_DIR$/01-week-assignments/datatypes/datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-software-developer-training-camp.iml" filepath="$PROJECT_DIR$/.idea/java-software-developer-training-camp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-week-assignments/javaHelloWorld/javaHelloWorld.iml" filepath="$PROJECT_DIR$/01-week-assignments/javaHelloWorld/javaHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-week-assignments/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/01-week-assignments/loopDemo/loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-week-assignments/miniProjectPrimeNumber/miniProjectPrimeNumber.iml" filepath="$PROJECT_DIR$/01-week-assignments/miniProjectPrimeNumber/miniProjectPrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-week-assignments/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/01-week-assignments/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-week-assignments/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/01-week-assignments/recapDemo1/recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-week-assignments/recapDemo2/recapDemo2.iml" filepath="$PROJECT_DIR$/01-week-assignments/recapDemo2/recapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-week-assignments/stringsDemo/stringsDemo.iml" filepath="$PROJECT_DIR$/01-week-assignments/stringsDemo/stringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-week-assignments/switchDemo/switchDemo.iml" filepath="$PROJECT_DIR$/01-week-assignments/switchDemo/switchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-week-assignments/variables/variables.iml" filepath="$PROJECT_DIR$/01-week-assignments/variables/variables.iml" />
+    </modules>
+  </component>
+</project>
