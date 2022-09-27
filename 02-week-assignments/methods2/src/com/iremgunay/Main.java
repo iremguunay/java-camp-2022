@@ -33,10 +33,11 @@ public class Main {
     public static int sum(int num1, int num2) {
         return num1 + num2;
     }
+
     // add how many numbers you want
     public static int sum2(int... nums) {
         int sum = 0;
-        for(int num: nums) {
+        for (int num : nums) {
             sum += num;
         }
         return sum;
