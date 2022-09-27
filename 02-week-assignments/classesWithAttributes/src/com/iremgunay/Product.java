@@ -12,6 +12,21 @@ public class Product {
     private String color;
     private String code;
 
+    // constructor
+    public Product() {
+        System.out.println("Constractor worked.");
+    }
+
+    // constructor overloading
+    public Product(int id, String name, String description, double price, int stockAmount, String color) {
+        this.id = id;
+        this.name = name;
+        this.description = description;
+        this.price = price;
+        this.stockAmount = stockAmount;
+        this.color = color;
+    }
+
     // getter
     public int getId() {
         return id;
