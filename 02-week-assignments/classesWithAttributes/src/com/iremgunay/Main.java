@@ -3,15 +3,17 @@ package com.iremgunay;
 public class Main {
 
     public static void main(String[] args) {
-        Product product1 = new Product();
-        product1.name = "Laptop";
-        product1.id = 1;
-        product1.description = "Asus Laptop";
-        product1.price = 5000;
-        product1.stockAmount = 3;
+        Product product = new Product();
+        product.setName("Laptop");
+        product.setId(1);
+        product.setDescription("Asus Laptop");
+        product.setPrice(5000);
+        product.setStockAmount(3);
+        product.setColor("Black");
 
         ProductManager productManager = new ProductManager();
-        productManager.add(product1);
+        productManager.add(product);
+        System.out.println(product.getCode());
 
     }
 }
